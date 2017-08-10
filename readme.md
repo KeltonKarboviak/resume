@@ -1,5 +1,4 @@
 # Resume
----------
 
 This is my professional resume using the [jsonresume.org](jsonresume.org) schema.
 
