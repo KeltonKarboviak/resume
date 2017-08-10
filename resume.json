@@ -1,0 +1,226 @@
+{
+  "basics": {
+    "name": "Kelton Karboviak",
+    "label": "Software Engineer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAXDAAAAJGMzMzQ3MTA4LTgxMmEtNDdmYS1hMzkyLTI2OGQwMDIzOGI4OQ.jpg",
+    "email": "kelton.karboviak@gmail.com",
+    "phone": "(701) 521-0226",
+    "website": "http://keltonkarboviak.github.io/",
+    "summary": "",
+    "location": {
+      "address": "3725 University Ave #303",
+      "postalCode": "58203",
+      "city": "Grand Forks",
+      "countryCode": "US",
+      "region": "North Dakota"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "KeltonKarboviak",
+        "url": "https://github.com/KeltonKarboviak"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Kelton Karboviak",
+        "url": "https://www.linkedin.com/in/kkarboviak"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of North Dakota",
+      "position": "Graduate Research Assistant",
+      "website": "http://und.edu/",
+      "startDate": "2016-08-22",
+      "endDate": "2017-08-08",
+      "summary": "Perform research requested by project advisors for the National General Aviation Flight Information Database (NGAFID) in the area of data mining and analysis.",
+      "highlights": [
+        "[Bullet points...]"
+      ]
+    },
+    {
+      "company": "Digi-Key Electronics",
+      "position": "Software Engineer Intern",
+      "website": "https://www.digikey.com/",
+      "startDate": "2017-05-30",
+      "endDate": "2017-08-18",
+      "summary": "[Summary of work...]",
+      "highlights": [
+        "[Bullet points...]"
+      ]
+    },
+    {
+      "company": "University of North Dakota",
+      "position": "Undergraduate Teaching Assistant",
+      "website": "http://und.edu",
+      "startDate": "2016-01-11",
+      "endDate": "2016-05-20",
+      "summary": "Instructed an introductory Java programming lab and graded the lab assignments.",
+      "highlights": [
+        "Co-lead a lab class consisting of XXX students",
+        "Cooperated with instructor of the lecture class to grade course assignments"
+      ]
+    },
+    {
+      "company": "Digi-Key Electronics",
+      "position": "Software Engineer Intern",
+      "website": "https://www.digikey.com/",
+      "startDate": "2015-05-18",
+      "endDate": "2015-08-14",
+      "summary": "[Summary of work...]",
+      "highlights": [
+        "Cooperated with team members to create the foundation for a brand new MVC .NET web solution for future internal forms",
+        "Updated existing web applications with new features and implemented bug fixes",
+        "Communicated progress on current projects with Product Owners and Stakeholders"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Freedom Church",
+      "position": "",
+      "website": "http://freedomchurchgf.com/",
+      "startDate": "2015-06-01",
+      "endDate": "2017-08-08",
+      "summary": "[Summary...]",
+      "highlights": []
+    },
+    {
+      "organization": "UND Welcome Weekend",
+      "position": "",
+      "website": "https://und.edu/student-life/student-involvement/welcome-weekend.cfm",
+      "startDate": "2014-08-23",
+      "endDate": "2015-08-22",
+      "summary": "[Summary...]",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Dakota",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2016-08-22",
+      "endDate": "2018-05-15",
+      "gpa": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "University of North Dakota",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-08-20",
+      "endDate": "2016-05-20",
+      "gpa": "3.98",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Summa Cum Laude",
+      "date": "2016-05-20",
+      "awarder": "University of North Dakota",
+      "summary": ""
+    },
+    {
+      "title": "President's Honor Roll Academic Achievement",
+      "date": "2016-05-20",
+      "awarder": "University of North Dakota",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List Academic Achievement",
+      "date": "2016-05-20",
+      "awarder": "University of North Dakota",
+      "summary": ""
+    },
+    {
+      "title": "Rockwell Collins Scholarship",
+      "date": "2014-11-21",
+      "awarder": "Rockwell Collins",
+      "summary": ""
+    },
+    {
+      "title": "Microsoft Scholarship",
+      "date": "2013-11-22",
+      "awarder": "Microsoft",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Proficient",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Working Knowledge",
+      "keywords": [
+        "PHP",
+        "Laravel 5",
+        "MVC in C# .NET",
+        "JavaScript",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "keywords": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Working Knowledge",
+      "keywords": [
+        "C / C++"
+      ]
+    },
+    {
+      "name": "Other Skills",
+      "level": "Proficient",
+      "keywords": [
+        "MySQL",
+        "Linux / UNIX"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Podcasts",
+      "keywords": [
+        "This American Life",
+        "Stuff You Should Know",
+        "Full Stack Radio"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Non-fiction",
+        "Self-help",
+        "Financial"
+      ]
+    },
+    {
+      "name": "Recreational Sports",
+      "keywords": [
+        "Golf",
+        "Football",
+        "Tennis",
+        "Racquetball"
+      ]
+    }
+  ],
+  "references": []
+}
