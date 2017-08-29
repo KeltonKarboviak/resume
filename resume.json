@@ -33,10 +33,13 @@
       "position": "Graduate Research Assistant",
       "website": "http://und.edu/",
       "startDate": "2016-08-22",
-      "endDate": "2017-08-08",
+      "endDate": "",
       "summary": "Perform research requested by project advisors for the National General Aviation Flight Information Database (NGAFID) in the area of data mining and analysis.",
       "highlights": [
-        "[Bullet points...]"
+        "Serve as a System Administrator, Database Administrator, and sole full stack developer for ngafid.com",
+        "Maintain and implement new features in the Laravel back-end and jQuery front-end code-bases, as well as several back-end bulk processing scripts in Python and PHP",
+        "Communicate with end-users on issues with the website and their resolution",
+        "Communicate with project advisors on the state of the system and progress towards new features and bugfixes"
       ]
     },
     {
@@ -45,9 +48,11 @@
       "website": "https://www.digikey.com/",
       "startDate": "2017-05-30",
       "endDate": "2017-08-18",
-      "summary": "[Summary of work...]",
+      "summary": "Worked on the TechOps team which is responsible for developing interactive, real-time systems in C/C++ that interact with a relational database.",
       "highlights": [
-        "[Bullet points...]"
+        "Refactored several N + 1 query problems in a legacy system which cut the execution time nearly in half",
+        "Performed extensive research into several voice interactive systems that would fulfill business needs",
+        "Implemented and demonstrated a proof-of-concept chat bot that utilized the Microsoft Bot Framework and natural language processing services"
       ]
     },
     {
@@ -58,7 +63,7 @@
       "endDate": "2016-05-20",
       "summary": "Instructed an introductory Java programming lab and graded the lab assignments.",
       "highlights": [
-        "Co-lead a lab class consisting of XXX students",
+        "Co-lead a lab class consisting of 25 students",
         "Cooperated with instructor of the lecture class to grade course assignments"
       ]
     },
@@ -68,7 +73,7 @@
       "website": "https://www.digikey.com/",
       "startDate": "2015-05-18",
       "endDate": "2015-08-14",
-      "summary": "[Summary of work...]",
+      "summary": "Worked on the Web Development team and was focused primarily on working with their internal web forms in ASP .NET and MVC .NET.",
       "highlights": [
         "Cooperated with team members to create the foundation for a brand new MVC .NET web solution for future internal forms",
         "Updated existing web applications with new features and implemented bug fixes",
@@ -79,20 +84,20 @@
   "volunteer": [
     {
       "organization": "Freedom Church",
-      "position": "",
+      "position": "Visuals Team Member",
       "website": "http://freedomchurchgf.com/",
       "startDate": "2015-06-01",
       "endDate": "2017-08-08",
-      "summary": "[Summary...]",
+      "summary": "Run and manage the Pro Presenter slides during several church services a month.",
       "highlights": []
     },
     {
       "organization": "UND Welcome Weekend",
-      "position": "",
+      "position": "Move-In Volunteer",
       "website": "https://und.edu/student-life/student-involvement/welcome-weekend.cfm",
       "startDate": "2014-08-23",
       "endDate": "2015-08-22",
-      "summary": "[Summary...]",
+      "summary": "Assisted incoming students with moving their furniture and belongings into their residence hall rooms at the beginning of the school semester.",
       "highlights": []
     }
   ],
@@ -104,7 +109,9 @@
       "startDate": "2016-08-22",
       "endDate": "2018-05-15",
       "gpa": "4.0",
-      "courses": []
+      "courses": [
+          ""
+      ]
     },
     {
       "institution": "University of North Dakota",
@@ -113,10 +120,18 @@
       "startDate": "2012-08-20",
       "endDate": "2016-05-20",
       "gpa": "3.98",
-      "courses": []
+      "courses": [
+          ""
+      ]
     }
   ],
   "awards": [
+    {
+      "title": "Microsoft Scholarship",
+      "date": "2016-04-13",
+      "awarder": "Microsoft",
+      "summary": ""
+    },
     {
       "title": "Summa Cum Laude",
       "date": "2016-05-20",
@@ -182,7 +197,7 @@
       "name": "Programming Languages",
       "level": "Working Knowledge",
       "keywords": [
-        "C / C++"
+        "C/C++"
       ]
     },
     {
@@ -199,6 +214,7 @@
     {
       "name": "Podcasts",
       "keywords": [
+        "The Dave Ramsey Show",
         "This American Life",
         "Stuff You Should Know",
         "Full Stack Radio"
